@@ -21,12 +21,13 @@
     "standard": "^14.3.4"
   },
   "dependencies": {
-    "body": "^5.1.0",
+    "async": "^3.2.0",
     "corsify": "^2.1.0",
     "cuid": "^2.1.8",
     "dotenv": "^8.2.0",
     "healthpoint": "^1.0.0",
     "http-hash-router": "^2.0.1",
+    "map-limit": "0.0.1",
     "productionize": "^4.1.0",
     "redis": "^3.0.2",
     "req-logger": "^2.0.0",
